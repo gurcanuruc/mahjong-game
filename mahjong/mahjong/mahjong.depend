@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1716553323 source:c:\users\urucg\onedrive\masaüstü\mahjong\mahjong\main.c
+	"raylib.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
